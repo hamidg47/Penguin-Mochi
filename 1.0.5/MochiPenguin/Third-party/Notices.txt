@@ -1,0 +1,16 @@
+Mochi Penguin includes Python 3.12, Qt 6.11, PySide6 and Shiboken6 6.11,
+and the PyInstaller bootloader. Their copyright and license notices are
+included here and in their license subfolders. These components retain
+their original licenses.
+
+Qt and PySide use dynamically loaded libraries in _internal. You may replace
+these libraries with compatible modified builds. No restriction is imposed
+on reverse engineering for debugging modifications to these LGPL components.
+
+Upstream source and build instructions:
+https://code.qt.io/cgit/qt/qtbase.git/?h=v6.11.0
+https://code.qt.io/cgit/pyside/pyside-setup.git/?h=v6.11.0
+https://www.python.org/downloads/source/
+https://github.com/pyinstaller/pyinstaller/tree/v6.16.0
+
+The application source and entry point are in the bundled Source folder.

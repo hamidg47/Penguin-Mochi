@@ -1,0 +1,33 @@
+MOCHI PENGUIN - Windows desktop companion
+
+Open Mochi Penguin from the Start menu. No Python installation is needed.
+Right-click the penguin (or his tray icon) for food, toys and activities.
+
+Right-click Mochi > Activities & cameos > Madagascar for a smile-and-wave commando routine:
+salute, binocular lookout, tiptoe and belly slide. It can also happen during
+spontaneous play. Quiet time pauses automatic cameos; Escape stops an activity.
+
+Mochi chooses his own games, visits and rest breaks. Allow a minute or two
+between activities. Quiet time pauses spontaneous play. Low energy means
+he needs sleep; when hungry, he catches lunch before playing.
+
+Feed him yourself using Feed / place food, or let him catch lunch when hungry.
+Food is unlimited. A failed hungry fishing trip ends with a packed fish lunch.
+Home & rest includes Remove snowman; completed snowmen also melt away.
+Activities & cameos includes a visiting Skipper-inspired captain.
+
+Start with Windows is optional in the right-click menu. Press Escape to
+release the cursor during a cursor game. Use Quit companion to close him.
+Only one installed copy runs at a time.
+
+Save data: %LOCALAPPDATA%\Mochi Penguin
+Uninstall: Windows Settings > Apps > Mochi Penguin > Uninstall.
+Uninstall keeps your pet's saved progress. Close the pet before updating.
+
+Requires 64-bit Windows 10 or Windows 11. This release is not code-signed.
+An older Python-script version should be quit before opening this app.
+
+TREASURE HUNT: Activities & cameos > Treasure hunt. Mochi follows a map,
+checks clues, digs, and carries a pearl, star or crystal back to the igloo.
+Keepsakes are saved. Hunts can happen spontaneously and respect quiet time.
+Drag Mochi or choose Stop current activity to cancel a hunt.
